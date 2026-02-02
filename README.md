@@ -1,2 +1,2 @@
 # CSM-2025-26-BATCH-B-03
-PROJECT FOR THE SMALL VENDORS
+sign language recognision and translation system with multiple language translation 
