@@ -1,7 +1,7 @@
 # CSM-2025-26-BATCH-B-03
 # 🤟  Sign Language Translator
 
-A Real-Time Sign Language Word Recognition and Multilingual Translation System using Deep Learning.
+Sign Language Recognition and Multilingual Translation System using Deep Learning.
 
 ## 📌 Project Overview
 
